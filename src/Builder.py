@@ -8,7 +8,7 @@ combined_filename = 'mediaelement-and-player'
 
 # BUILD MediaElement (single file)
 
-print('building MediaElement.js')
+print('building MediaElement2.js')
 me_files = []
 me_files.append('me-header.js')
 me_files.append('me-namespace.js')
